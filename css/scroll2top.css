@@ -1,0 +1,18 @@
+.scroll2top
+{
+    width:127px;
+    height:40px;
+    padding-top:20px;
+    padding-left:20px;
+    position:fixed;
+    right:-45px;
+    top:45%;
+    background: #669dff;
+    border-radius:10px;
+    opacity:0.4;
+    color:#fff;
+}
+.scroll2top:hover
+{
+    opacity:0.7;
+}
